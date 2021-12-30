@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_mail_proj/static/css/main.46d5af29.css",
+    "main.js": "/react_mail_proj/static/js/main.21d5add9.js",
+    "static/media/logo.svg": "/react_mail_proj/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/react_mail_proj/index.html",
+    "main.46d5af29.css.map": "/react_mail_proj/static/css/main.46d5af29.css.map",
+    "main.21d5add9.js.map": "/react_mail_proj/static/js/main.21d5add9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46d5af29.css",
+    "static/js/main.21d5add9.js"
+  ]
+}
