@@ -1,0 +1,31 @@
+.compose_mail {
+    width: 600px;
+    background: white;
+    position: absolute;
+    bottom: 0;
+    right: 30px;
+    padding: 15px;
+    z-index: 10;
+    border: 1px solid #00b494;
+}
+.compose_mail form {
+    display: flex;
+    flex-direction: column;
+}
+.submit_btn{
+    color: #fff;
+    background: #00b494;
+    padding: 12px 80px;
+    border: 1px solid #00b494;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 30px;
+}
+.compose_mail input {
+    padding: 6px;
+    margin: 10px;
+    outline: none;
+}
+.compose_mail label {
+    margin-left: 10px;
+}

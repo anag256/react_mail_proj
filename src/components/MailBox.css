@@ -1,0 +1,27 @@
+.mailBox {
+    position: absolute;
+    top: 80px;
+    left: 0;
+    background-color: #e3e1dc;
+    width: 100%;
+   
+}
+ul.mailbox_list2 {
+    display: flex;
+    max-width: 300px;
+    flex-wrap: wrap;
+    list-style-type: none;
+    margin-left: 30px;
+}
+ul.mailbox_list2 li {
+    background: #fff;
+    margin: 5px;
+    padding: 2px;
+    box-sizing: border-box;
+    width: 108px;
+    font-size: 12px;
+}
+ul.mailbox_list2 li {
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,24 @@
+.compose_mail_btn {
+    color: #fff;
+    background: #00b494;
+    padding: 12px 80px;
+    border: 1px solid #00b494;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 30px;
+}
+ul.mailbox_list1 li {
+    display: flex;
+    list-style-type: none;
+    margin-left: 28px;
+    padding: 5px;
+    color: darkslategray;
+    cursor: pointer;
+}
+.mailBoxSideBar>h4 {
+    margin-left: 35px;
+    color: #95989a;
+    margin-top: 15px;
+    margin-bottom: 10px;
+
+}

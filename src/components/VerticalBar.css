@@ -1,0 +1,43 @@
+.verticalBar{
+   background-color: #233646;
+    width:20%;
+    /* min-height: 778px;
+    height: 100vh */
+    transition: all 0.4s;
+}
+.redHeight{
+    width: 4%;
+}
+.vertical_ul {
+    background: #2e4051;
+    height: 100%;
+}
+.verticalBar h4 {
+    color: #efe7ed;
+}
+.vertical_ul li {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    list-style-type: none;
+    padding: 16px 20px;
+    cursor: pointer;
+}
+span.li_txt {
+    margin-left: 17px;
+}
+.flxcls {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 44px;
+    margin-left: 60px;
+    width: max-content;
+}
+.flxcls h4, .flxcls p {
+    margin: 0;
+
+}
+.verticalBar p, .verticalBar ul li span {
+    color: #989fa9;
+}

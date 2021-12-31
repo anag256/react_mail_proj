@@ -1,0 +1,41 @@
+.sentMails {
+    position: absolute;
+    top: 29px;
+    left: 309px;
+    background: #fff;
+    padding: 20px;
+    width: 66%;
+    max-height: 87%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+.sentMails::-webkit-scrollbar {
+  
+    width: 5px;
+    height: 0;
+  
+}
+.flx {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.top_box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.search_btn {
+    background: #00b494;
+    border: 1px solid #00b494;
+    outline: none;
+    padding: 5px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+input.search_email {
+    padding: 5px;
+    width: 300px;
+    border: 1px solid lightgray;
+    outline: none;
+}

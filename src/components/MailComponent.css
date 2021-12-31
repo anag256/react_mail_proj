@@ -1,0 +1,28 @@
+.mailComponent{
+    display: flex;
+    align-items: center;
+    padding: 15px 20px;
+    margin-top: 10px;
+    border: 1px solid #ededee;
+    margin-left: -21px;
+    width: 100%;
+    font-weight: 500;
+    color: darkslategray;
+}
+.email_details {
+    margin-left: 20px;
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: space-between;
+}
+.email_details span {
+   min-width: 14%;
+  
+}
+span.email_sub {
+    margin-left: 102px;
+}
+span.email_date {
+    margin-left: 225px;
+}

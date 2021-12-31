@@ -1,0 +1,28 @@
+.topNavBar{
+    display: flex;
+    padding: 23px;
+    background: #fff;
+}
+.menu-icon{
+    width: 20px;
+    background-color: #00b494;
+    padding: 8px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+.menu-icon > .line {
+    background-color: white;
+    height: 2px;
+    display: block;
+   
+}
+.menu-icon > .line {
+    margin-top: 4px;
+}
+.searchbar {
+    border: none;
+    outline: none;
+    padding: 10px;
+    min-width: 600px;
+    flex: 1;
+}
